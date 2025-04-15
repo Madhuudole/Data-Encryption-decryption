@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d49f032a-6bb1-4d98-a3e1-9e48b18a1ed8)# Data-Encryption-decryption
+
 
 Data Encryption is a method of preserving data confidentiality by transforming it into ciphertext, which can only be decoded using a unique decryption key produced at the time of the encryption or before it. The conversion of plaintext into ciphertext is known as encryption.
 
